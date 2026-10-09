@@ -1,3 +1,5 @@
+![Ferdinando Catania – Embedded FW/HW Engineer](assets/linkedin-banner.png)
+
 ## Hi, I'm Ferdinando 👋
 
 **Embedded Firmware & Hardware Engineer** working on high-reliability electronics for defence, aerospace and communications: FPGA/SoC boards, RF front-ends, system integration and test.
